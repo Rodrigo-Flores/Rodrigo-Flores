@@ -1,10 +1,9 @@
-![1](https://wallhaven.cc/w/57zgl9)
+![TOP](https://github.com/Rodrigo-Flores/Rodrigo-Flores/edit/main/assets/event_horizon.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 
 
 <!--
-**Rodrigo-Flores/Rodrigo-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
