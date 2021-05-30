@@ -7,7 +7,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-rodrigo_flores___-blue?style=social&logo=Instagram&link=https://www.instagram.com/rodrigo_flores___/)](https://www.instagram.com/rodrigo_flores___/)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)
 <!--
