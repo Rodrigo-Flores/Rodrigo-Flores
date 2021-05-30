@@ -1,4 +1,4 @@
-[![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/master/assets/name.gif)]
+<code><img title="My Name" height="30" src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/master/assets/name.gif"></code> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 
