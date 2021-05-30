@@ -1,4 +1,4 @@
-![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/event_horizon.png)
+![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif)
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 ![2](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name.gif)
