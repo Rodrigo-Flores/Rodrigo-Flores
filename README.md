@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/rodrigo-flores-1207/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Flores-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/rodrigo-flores-1207/)
 
