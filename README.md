@@ -1,7 +1,5 @@
-![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif)
-
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
-![2](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name.gif)
+![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Flores-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/rodrigo-flores-1207/)
 [![Instagram Badge](https://img.shields.io/badge/-rodrigo_flores___-blue?style=social&logo=Instagram&link=https://www.instagram.com/rodrigo_flores___/)](https://www.instagram.com/rodrigo_flores___/)
