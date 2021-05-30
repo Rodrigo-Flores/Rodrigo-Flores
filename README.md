@@ -1,4 +1,4 @@
-![TOP](https://github.com/Rodrigo-Flores/Rodrigo-Flores/edit/main/assets/event_horizon.png)
+![TOP](https://github.com/Rodrigo-Flores/Rodrigo-Flores/edit/main/assets/name.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 
