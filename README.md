@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Flores-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/rodrigo-flores-1207/)[![Instagram Badge](https://img.shields.io/badge/-rodrigo_flores___-blue?style=social&logo=Instagram&link=https://www.instagram.com/rodrigo_flores___/)](https://www.instagram.com/rodrigo_flores___/)
 ![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif)
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif" width="1500px"></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
      alt="Markdown Monster icon"
