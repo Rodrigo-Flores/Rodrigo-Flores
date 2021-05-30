@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-center: 10px;" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)
 <!--
