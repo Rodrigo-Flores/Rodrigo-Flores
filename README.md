@@ -1,4 +1,4 @@
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 ![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/master/assets/name.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Flores-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/rodrigo-flores-1207/)
