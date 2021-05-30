@@ -4,6 +4,8 @@
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=radical)
 
+![Rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rodrigo-Flores)
+
 
 <!--
 **Rodrigo-Flores/Rodrigo-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
