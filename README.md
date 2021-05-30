@@ -10,7 +10,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)
+<!--
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
+-->
 
 <!--
 
