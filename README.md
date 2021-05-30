@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=dracula)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 
 ![Rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rodrigo-Flores)
 
