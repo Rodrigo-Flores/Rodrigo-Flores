@@ -1,11 +1,8 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 ![1](https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/master/assets/name.gif)
 
-
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)
-  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
-<div/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 
 <!--
 
