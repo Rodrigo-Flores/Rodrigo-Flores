@@ -6,7 +6,10 @@
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 -->
 
+<img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/name2.gif" height="250px" width="1000px" ></h2>
 
+
+<!--
 Somethigs about me:
 
 - 🔭 I’m currently working on SIMES 1, a nanosatelite
@@ -16,6 +19,7 @@ Somethigs about me:
 - 💬 Ask me about philosophy
 - 📫 How to reach me: rodrigo.flores.12.07@gmail.com
 - 😄 Pronouns: He/Him
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
      alt="Markdown Monster icon"
