@@ -9,7 +9,7 @@
 
 Somethigs about me:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on SIMES 1, a nanosatelite
 - 🌱 I’m currently learning about mechanics
 - 👯 I’m looking to collaborate on a new science proyect
 - 🤔 I’m looking for help with Python 3 and something more...
