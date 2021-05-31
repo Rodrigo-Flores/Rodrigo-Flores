@@ -6,7 +6,7 @@
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight)
 -->
 
-<img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/space_name.png" height="250px" width="1000px" ></h2>
+<img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/space_name.png" width="1000px" ></h2>
 
 
 <!--
