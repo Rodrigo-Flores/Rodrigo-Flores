@@ -23,8 +23,6 @@ Somethigs about me:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
      alt="Markdown Monster icon"
-     style="float: left; margin-center: 10px;" />
-     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores"
+     style="float: left; margin-center: 10px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores"
      alt="Markdown Monster icon"
      style="float: right; margin-center: 10px;" />
