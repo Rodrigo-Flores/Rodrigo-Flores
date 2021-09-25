@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Flores-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/rodrigo-flores-1207/)[![Instagram Badge](https://img.shields.io/badge/-rodrigo_flores___-blue?style=social&logo=Instagram&link=https://www.instagram.com/rodrigo_flores___/)](https://www.instagram.com/rodrigo_flores___/)
 
-<img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/space_name.png" width="1000px" ></h2>
+<img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/space_name_v2.png" width="1000px" ></h2>
 
 
 <!--
