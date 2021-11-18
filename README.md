@@ -29,6 +29,7 @@
      style="float: left; margin-center: 10px; justify-content: left;" />
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+---
 ### Contact Me
-<img align="left" alt="WhatsApp" width="26px" src="assets/whatsapp-logo.png" /> +56 9 3905 1985 <br/>
-✉️  rodrigo.floresf@sansano.usm.cl
+- <img align="left" alt="WhatsApp" width="26px" src="assets/whatsapp-logo.png" /> +56 9 3905 1985 <br/>
+- ✉️  rodrigo.floresf@sansano.usm.cl
