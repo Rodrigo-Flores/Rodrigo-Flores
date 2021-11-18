@@ -34,8 +34,16 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/r.png" />
 <img align="left" alt="CSS3" width="26px" src="/assets/react.png" /> -->
 
-![C++](assets/c-.png)
-<img src="/assets/c-.png" alt="drawing" width="200"/>
+<img src="/assets/c-.png" alt="C++" width="26px"/>
+<img src="/assets/command-line.png-.png" alt="C++" width="26px"/>
+<img src="/assets/css-3.png-.png" alt="C++" width="26px"/>
+<img src="/assets/github.png.png" alt="C++" width="26px"/>
+<img src="/assets/git.png.png" alt="C++" width="26px"/>
+<img src="/assets/html-5.png.png" alt="C++" width="26px"/>
+<img src="/assets/linux.png.png" alt="C++" width="26px"/>
+<img src="/assets/piton.png.png" alt="C++" width="26px"/>
+<img src="/assets/react.png.png" alt="C++" width="26px"/>
+<img src="/assets/r.png.png" alt="C++" width="26px"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
      
