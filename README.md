@@ -29,7 +29,6 @@
 <img align="left" alt="GitHub" width="26px" src="/assets/github.png" /><br/><br/>
 
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
-     
 ---
 ### Contact Me
 - 📞 +56 9 3905 1985
