@@ -26,10 +26,9 @@
 <img align="left" alt="Python" width="26px" src="/assets/piton.png" />
 <img align="left" alt="R" width="26px" src="/assets/r.png" />
 <img align="left" alt="Ubuntu" width="26px" src="/assets/linux.png" />
-<img align="left" alt="GitHub" width="26px" src="/assets/github.png" /><br/><br/>
+<img align="left" alt="GitHub" width="26px" src="/assets/github.png" /><br/><br/><br/>
 
-<!-- > ![Jokes Card](https://readme-jokes.vercel.app/api) -->
-> <img alt="Joke" src="https://readme-jokes.vercel.app/api">
+> ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 ### Contact Me
