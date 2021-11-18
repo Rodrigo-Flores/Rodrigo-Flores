@@ -35,6 +35,7 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/react.png" /> -->
 
 ![C++](assets/c-.png)
+<img src="/assets/c-.png" alt="drawing" width="200"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
      
