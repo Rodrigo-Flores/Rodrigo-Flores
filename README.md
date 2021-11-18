@@ -27,10 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
      alt="Markdown Monster icon"
      style="float: left; margin-center: 10px; justify-content: left;" />
-
-<br/>
 ---
 ### Contact Me
 - 📞 +56 9 3905 1985
 - 📧  rodrigo.floresf@sansano.usm.cl
-- 
