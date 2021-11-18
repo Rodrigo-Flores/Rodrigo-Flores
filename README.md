@@ -28,7 +28,7 @@
 <img align="left" alt="Ubuntu" width="26px" src="/assets/linux.png" />
 <img align="left" alt="GitHub" width="26px" src="/assets/github.png" /><br/><br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+> ![Jokes Card](https://readme-jokes.vercel.app/api)
      
 ---
 ### Contact Me
