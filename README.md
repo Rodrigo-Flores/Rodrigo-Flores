@@ -9,21 +9,18 @@
 
 <img src="https://github.com/Rodrigo-Flores/Rodrigo-Flores/blob/main/assets/space_name_v2.png" width="1000px" ></h2>
 
-
-<!--
-Somethigs about me:
-
-- 🔭 I’m currently working on SIMES 1, a nanosatelite
-- 🌱 I’m currently learning about mechanics
-- 👯 I’m looking to collaborate on a new science proyect
-- 🤔 I’m looking for help with Python 3 and something more...
-- 💬 Ask me about philosophy
-- 📫 How to reach me: rodrigo.flores.12.07@gmail.com
-- 😄 Pronouns: He/Him
--->
-
 <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Flores&show_icons=true&theme=tokyonight"
      alt="Markdown Monster icon"
      style="float: left; margin-center: 10px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Flores"
      alt="Markdown Monster icon"
      style="float: right; margin-center: 10px;" />
+
+### Languages and Tools
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
