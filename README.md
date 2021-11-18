@@ -35,15 +35,15 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/react.png" /> -->
 
 <img src="/assets/c-.png" alt="C++" width="26px"/>
-<img src="/assets/command-line.png-.png" alt="C++" width="26px"/>
-<img src="/assets/css-3.png-.png" alt="C++" width="26px"/>
-<img src="/assets/github.png.png" alt="C++" width="26px"/>
-<img src="/assets/git.png.png" alt="C++" width="26px"/>
-<img src="/assets/html-5.png.png" alt="C++" width="26px"/>
-<img src="/assets/linux.png.png" alt="C++" width="26px"/>
-<img src="/assets/piton.png.png" alt="C++" width="26px"/>
-<img src="/assets/react.png.png" alt="C++" width="26px"/>
-<img src="/assets/r.png.png" alt="C++" width="26px"/>
+<img src="/assets/command-line.png-.png" alt="cmd width="26px"/>
+<img src="/assets/css-3.png-.png" alt="CSS3" width="26px"/>
+<img src="/assets/github.png.png" alt="GitHub" width="26px"/>
+<img src="/assets/git.png.png" alt="Git" width="26px"/>
+<img src="/assets/html-5.png.png" alt="HTML5" width="26px"/>
+<img src="/assets/linux.png.png" alt="Ubuntu" width="26px"/>
+<img src="/assets/piton.png.png" alt="Python" width="26px"/>
+<img src="/assets/react.png.png" alt="React" width="26px"/>
+<img src="/assets/r.png.png" alt="R" width="26px"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
      
