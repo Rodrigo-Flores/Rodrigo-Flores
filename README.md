@@ -35,7 +35,7 @@
 <img align="left" alt="CSS3" width="26px" src="/assets/react.png" /> -->
 
 <img src="/assets/c-.png" alt="C++" width="26px"/>
-<img src="/assets/command-line.png-.png" alt="cmd width="26px"/>
+<img src="/assets/command-line.png-.png" alt="cmd" width="26px"/>
 <img src="/assets/css-3.png-.png" alt="CSS3" width="26px"/>
 <img src="/assets/github.png.png" alt="GitHub" width="26px"/>
 <img src="/assets/git.png.png" alt="Git" width="26px"/>
