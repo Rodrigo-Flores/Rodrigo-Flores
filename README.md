@@ -1,4 +1,4 @@
-### Hello there, I am Rodrigo 👋 <i>he/him</i>
+### Hello there, I am Rodrigo 👋 <i>he/him</i> <a><img alt="sus" src=""></a>
 I am Computer Science student, and Software Director at [Octa Aerospace](https://octaaerospace.com/). Also, I work as Full Stack teacher at [Edutecno](https://edutecno.cl/), and C++ at [OCILabs](https://ocilabs.cl/).
 
 ## Where I am?
