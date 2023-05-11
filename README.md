@@ -2,7 +2,8 @@
 I am Computer Science student, and Software Director at [Octa Aerospace](https://octaaerospace.com/). Also, I work as Full Stack teacher at [Edutecno](https://edutecno.cl/), and C++ at [OCILabs](https://ocilabs.cl/).
 
 ## Where I am?
-I feel confortable sharing my knowledge. Feel free to contact me ;D
+I feel confortable sharing my knowledge. Feel free to contact me 🤖
+<br>
 <a href="https://t.me/Nao_Motoki">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
