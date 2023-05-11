@@ -1,12 +1,12 @@
 ### Hello there, I am Rodrigo 👋 <i>he/him</i>
-I am Computer Science student, and Software Director at ![Octa Aerospace](https://octaaerospace.com/). Also, I work as Full Stack teacher at [Edutecno](https://edutecno.cl/), and C++ at ![OCILabs](https://ocilabs.cl/).
+I am Computer Science student, and Software Director at [Octa Aerospace](https://octaaerospace.com/). Also, I work as Full Stack teacher at [Edutecno](https://edutecno.cl/), and C++ at [OCILabs](https://ocilabs.cl/).
 
 ## Where I am?
 I feel confortable sharing my knowledge. Feel free to contact me ;D
-<p href="https://t.me/nao_motoki">
+<p href="https://t.me/Nao_Motoki">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
-<p href="[https://www.linkedin.com/in/agucova/](https://www.linkedin.com/in/rodrigo-flores-1207/)">
+<p href="https://www.linkedin.com/in/rodrigo-flores-1207/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
