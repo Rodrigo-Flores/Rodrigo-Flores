@@ -4,10 +4,10 @@ I am Computer Science student, and Software Director at [Octa Aerospace](https:/
 ## Where I am?
 I feel confortable sharing my knowledge. Feel free to contact me 🤖
 <br>
+<br>
 <a href="https://t.me/Nao_Motoki">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<br>
 <a href="https://www.linkedin.com/in/rodrigo-flores-1207/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
