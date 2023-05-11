@@ -1,4 +1,4 @@
-### Hello there, I am Rodrigo 👋 <i>he/him</i> <a><img alt="sus" src=""></a>
+### Hello there, I am Rodrigo 👋 <i>he/him</i>
 I am Computer Science student, and Software Director at [Octa Aerospace](https://octaaerospace.com/). Also, I work as Full Stack teacher at [Edutecno](https://edutecno.cl/), and C++ at [OCILabs](https://ocilabs.cl/).
 
 ## Where I am?
@@ -48,5 +48,5 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Time for a joke?
-<img align="center" src="https://readme-jokes.vercel.app/api">
-
+<a><img align="center" src="https://readme-jokes.vercel.app/api"></a>
+<a><img alt="sus" src="assets/kyubey.gif" width="160"></a>
