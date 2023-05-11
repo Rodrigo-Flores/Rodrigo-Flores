@@ -1,5 +1,5 @@
 ### Hello there, I am Rodrigo 👋 <i>he/him</i>
-I am Computer Science student, and Software Director at ![Octa Aerospace](https://octaaerospace.com/). Also, I work as teacher in C++ in ![OCILabs](https://ocilabs.cl/) and Full Stack with Django in [Edutecno](https://edutecno.cl/).
+I am Computer Science student, and Software Director at ![Octa Aerospace](https://octaaerospace.com/). Also, I work as Full Stack teacher at [Edutecno](https://edutecno.cl/), and C++ at ![OCILabs](https://ocilabs.cl/).
 
 ## Where I am?
 I feel confortable sharing my knowledge. Feel free to contact me ;D
