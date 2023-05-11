@@ -1,7 +1,7 @@
 ### Hello there, I am Rodrigo 👋 <i>he/him</i>
-I am Computer Science student, a Full Stack developer and a junior Data Scientist. Also, I work as teacher in C++ in ![OCILabs](https://ocilabs.cl/) and Full Stack with Django in [Edutecno](https://edutecno.cl/).
+I am Computer Science student, and Software Director at ![Octa Aerospace](https://octaaerospace.com/). Also, I work as teacher in C++ in ![OCILabs](https://ocilabs.cl/) and Full Stack with Django in [Edutecno](https://edutecno.cl/).
 
-## How to reach me
+## Where I am?
 I feel confortable sharing my knowledge. Feel free to contact me ;D
 <p href="https://t.me/nao_motoki">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
