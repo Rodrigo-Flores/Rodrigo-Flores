@@ -60,4 +60,3 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
 
 ## Time for a joke?
 <a><img align="center" src="https://readme-jokes.vercel.app/api"></a>
-<a><img alt="sus" src="assets/kyubey.gif" width="160"></a>
