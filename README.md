@@ -11,7 +11,7 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
 <a href="https://www.linkedin.com/in/rodrigo-flores-1207/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:rodrigo@octaaerospace.com">
+<a href="mailto:dev.rodrigoflores@gmail.com">
   <img alt="Octa Email" src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
 
