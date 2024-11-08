@@ -18,10 +18,10 @@ I’m happy to connect and chat about tech, projects, or anything interesting! F
 <br/>
 
 ## Main languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffe97a?style=for-the-badge&logo=python&logoColor=779dbd)
 ![Java Script](https://img.shields.io/badge/Java%20Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-F5F5F5?style=for-the-badge&logo=ruby&logoColor=red)
 
 ## Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -53,6 +53,7 @@ I’m happy to connect and chat about tech, projects, or anything interesting! F
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-cf150e?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-F5F5F5?style=for-the-badge&logo=Angular&logoColor=red)
