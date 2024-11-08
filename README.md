@@ -36,6 +36,7 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GOOGLE CLOUD](https://img.shields.io/badge/GOOGLE%20CLOUD-F5F5F5?style=for-the-badge&logo=google-cloud&logoColor=7695e8)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
