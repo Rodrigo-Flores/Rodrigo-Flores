@@ -1,8 +1,8 @@
 ### Hello there, I am Rodrigo 👋 <i>he/him</i>
-I am Computer Science student, and Software Director at [Octa Aerospace](https://octaaerospace.com/).
+I’m a software engineer based in Chile 🇨🇱, passionate about building impactful projects and always eager to share knowledge.
 
 ## Where am I?
-I feel confortable sharing my knowledge. Feel free to contact me 🤖
+I’m happy to connect and chat about tech, projects, or anything interesting! Feel free to reach out 🤖
 <br>
 <br>
 <a href="https://t.me/Nao_Motoki">
