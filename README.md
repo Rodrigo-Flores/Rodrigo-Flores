@@ -12,7 +12,7 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:dev.rodrigoflores@gmail.com">
-  <img alt="Octa Email" src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
 
 <br/>
@@ -26,6 +26,7 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
 ## Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-F5F5F5?style=for-the-badge&logo=terraform&logoColor=3e3ead)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/My%20Sql%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -53,6 +54,7 @@ I feel confortable sharing my knowledge. Feel free to contact me 🤖
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F5F5F5?style=for-the-badge&logo=Angular&logoColor=red)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Sci Kit Learn](https://img.shields.io/badge/Sci%20Kit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
