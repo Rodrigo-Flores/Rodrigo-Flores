@@ -19,7 +19,7 @@ I’m happy to connect and chat about tech, projects, or anything interesting! F
 
 ## Main languages
 ![Python](https://img.shields.io/badge/Python-ffe97a?style=for-the-badge&logo=python&logoColor=779dbd)
-![Java Script](https://img.shields.io/badge/Java%20Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Java%20Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-F5F5F5?style=for-the-badge&logo=ruby&logoColor=red)
 
