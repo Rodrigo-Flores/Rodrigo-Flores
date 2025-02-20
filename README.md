@@ -1,7 +1,7 @@
 ### Hello there, I am Rodrigo 👋 <i>he/him</i>
 I’m a software engineer based in Chile 🇨🇱, passionate about building impactful projects and always eager to share knowledge.
 
-## Where am I?
+## How to reach me?
 I’m happy to connect and chat about tech, projects, or anything interesting! Feel free to reach out 🤖
 <br>
 <br>
